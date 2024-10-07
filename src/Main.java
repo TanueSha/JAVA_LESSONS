@@ -47,6 +47,7 @@ public class Main {
 //            }
         } else {
             System.out.println("Приятно познакомиться" + name + "!");
+
         }
     }
 //вернуть строку в обратном порядке
